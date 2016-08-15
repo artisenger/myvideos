@@ -1,0 +1,9 @@
+nb-configuration.xml
+target/
+target/classes
+target/endorsed
+target/maven-archiver
+target/myvideoswebapp-1.0-SNAPSHOT
+target/myvideoswebapp-1.0-SNAPSHOT.war
+target/surefire
+target/test-classes
